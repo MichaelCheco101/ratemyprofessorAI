@@ -1,0 +1,49 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Smith",
+        "department": "Biology",
+        "rating": 4.5,
+        "difficulty": 3.2,
+        "comment": "Excellent lecturer, but assignments can be challenging.",
+        "wouldTakeAgain": true,
+        "date": "2024-03-15"
+      },
+      {
+        "professor": "Prof. Michael Johnson",
+        "department": "Computer Science",
+        "rating": 3.8,
+        "difficulty": 4.1,
+        "comment": "Knowledgeable, but sometimes moves too fast through complex topics.",
+        "wouldTakeAgain": false,
+        "date": "2024-02-28"
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "department": "Psychology",
+        "rating": 4.9,
+        "difficulty": 2.5,
+        "comment": "Engaging lectures and fair grading. Highly recommended!",
+        "wouldTakeAgain": true,
+        "date": "2024-04-02"
+      },
+      {
+        "professor": "Prof. David Chen",
+        "department": "Physics",
+        "rating": 4.2,
+        "difficulty": 4.7,
+        "comment": "Brilliant physicist, but expects a lot from students. Be prepared to work hard.",
+        "wouldTakeAgain": true,
+        "date": "2024-03-20"
+      },
+      {
+        "professor": "Dr. Lisa Taylor",
+        "department": "English Literature",
+        "rating": 3.5,
+        "difficulty": 3.0,
+        "comment": "Interesting course material, but grading can be inconsistent.",
+        "wouldTakeAgain": false,
+        "date": "2024-01-10"
+      }
+    ]
+  }
